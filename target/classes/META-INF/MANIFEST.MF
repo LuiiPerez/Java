@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: luii
+Build-Jdk: 11.0.2
+Implementation-Title: SpringBootRestfulClient
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: org.o7planning
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/SpringBootRestfulClient
+Created-By: Maven Integration for Eclipse
+
